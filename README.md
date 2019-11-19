@@ -1,7 +1,7 @@
 # GOAlpha--Cloud-function
 
 
-Ky funksion merr si parameter id e fushates se hapur. Ai trigerohet me nje http Call te tipit : https://host.com/campaignId={id}.
+Ky funksion merr si parameter id e fushates se hapur. Ai trigerohet me nje http Call te tipit(Kete e ben cloud task) : https://us-central1-push-notif-259017.cloudfunctions.net/campaign-sender-http?campaignId={id}.
 
 Funksionaliteti i funksionit shprehet me hapat me poshte :
 
