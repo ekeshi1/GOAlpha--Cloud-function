@@ -7,7 +7,7 @@ It takes the campaignId as an argument and then performs the following steps :
 
 1.Opens a Db Connections and retrieves all subscriptions of the site.
 
-2. Loops all the subscriptions
+2.Loops all the subscriptions
 
 3.Send to each of them the campaign data such as title, description, redirectUrl and iconUrl.
 
